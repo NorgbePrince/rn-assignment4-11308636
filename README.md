@@ -90,7 +90,7 @@ export default App;
 - Frame Screen:
 
 ![Frame Screen](./Job/assets/photo_2024-06-19_21-10-42.jpg)
-    - LogIn Screen:
+  - LogIn Screen:
 
 ![LogIn Screen](./Job/assets/photo_2024-06-19_21-10-52.jpg)
   - Homepage Screen:
