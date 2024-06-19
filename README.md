@@ -85,12 +85,8 @@ const App = () => {
 };
 
 export default App;
-```
 
-## Screenshots
-
-To give you a better understanding of the application, here are some screenshots:
-
+## Screenshot
 - Frame Screen:
 ![Frame Screen](./Job/assets/photo_2024-06-19_21-10-42.jpg)
   - Homepage Screen:
@@ -99,3 +95,4 @@ To give you a better understanding of the application, here are some screenshots
 ![LogIn Screen](./Job/assets/photo_2024-06-19_21-10-57.jpg)
   
   This README is intended to provide clear and detailed guidance on setting up and using the application, ensuring a smooth experience for developers.
+
