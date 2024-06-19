@@ -92,10 +92,10 @@ export default App;
 To give you a better understanding of the application, here are some screenshots:
 
 - Frame Screen:
-   ![Frame Screen](./Job/assets/photo_2024-06-19_21-10-42.jpg)
+![Frame Screen](./Job/assets/photo_2024-06-19_21-10-42.jpg)
   - Homepage Screen:
-   ![Homepage Screen](./Job/assets/photo_2024-06-19_21-10-52.jpg)
+![Homepage Screen](./Job/assets/photo_2024-06-19_21-10-52.jpg)
   - LogIn Screen:
-   ![LogIn Screen](./Job/assets/photo_2024-06-19_21-10-57.jpg)
+![LogIn Screen](./Job/assets/photo_2024-06-19_21-10-57.jpg)
   
   This README is intended to provide clear and detailed guidance on setting up and using the application, ensuring a smooth experience for developers.
